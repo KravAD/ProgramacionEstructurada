@@ -9,3 +9,8 @@ int edad;
 float promedio;
 
 };
+
+int main(){
+
+    return 0;
+}
